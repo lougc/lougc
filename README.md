@@ -3,6 +3,9 @@
 Soy Lourdes, desarrolladora frontend junior. Tras 14 años en el sector de atención al cliente, decidí dar un cambio en mi trayectoria profesional y dedicarme al desarrollo web. Llevo más de un año en continuo aprendizaje para poder cumplir el sueño de ejercer cómo desarrolladora.
 <br>
 
+<a href="https://lougc.github.io/portfolio">Mi portfolio:</a>
+
+
 <h3>Conocimientos de desarrollo:</h3>
 
 Maquetación: HTML5, CSS3, SASS, Flexbox, CSS Grid, Bootstrap.
