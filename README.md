@@ -23,10 +23,11 @@ Control de versiones con Git.
 <h3>Mis proyectos:</h3>
 
 <ul>
-  <a href="https://lougc.github.io/adoptme/" target="_blank"><li>AdoptMe</li></a>
-  <a href="https://lougc.github.io/landingpage/" target="_blank"><li>Landing page</li></a>
-  <a href="https://lougc.github.io/wishlist/" target="_blank"><li>Wishlist</li></a>
-  <a href="https://lougc.github.io/7thart/" target="_blank"><li>7thArt</li></a>
+  <li><a href="https://lougc.github.io/adoptme/" target="_blank">AdoptMe</a></li>
+  <li><a href="https://lougc.github.io/landingpage/" target="_blank">Landing page</a></li>
+  <li><a href="https://lougc.github.io/wishlist/" target="_blank">Wishlist</a></li>
+  <li><a href="https://lougc.github.io/7thart/" target="_blank">7thArt</a></li>
+  <li><a href="https://lougc.github.io/carrocompra/#/" target="_blank">Carro compra</a></li>
 </ul>
   
 💬 Contacto
