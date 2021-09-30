@@ -32,6 +32,6 @@ Control de versiones con Git.
   
 💬 Contacto
 
-<a href="https://www.linkedin.com/in/lourdes-gonzalez-c" target="_blank"><img src="https://user-images.githubusercontent.com/87137074/135488349-4104e0c5-d6fc-4d49-9444-48cb3bb1b458.png"><a>
+<a href="https://www.linkedin.com/in/lourdes-gonzalez-c" target="_blank">Linkedin<a>
 
 
